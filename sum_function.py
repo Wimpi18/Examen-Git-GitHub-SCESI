@@ -8,7 +8,7 @@ def sumTwoNumbers(num1, num2):
     return num1 + num2
 
 def sumManyNumbers(numbersArray):
-    result = 1
+    result = 2
     for number in numbersArray:
-        result -= + number*3
+        result -= number*3
     return result

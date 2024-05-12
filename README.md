@@ -29,3 +29,8 @@ But the question is again ...
         result += number
     return result
 ```
+
+----------
+
+# HELP
+Mi función "sumManyNumbers" dejó de funcionar, no sé en que momento introduje el primer error. Por favor ayúdame a identificar el SHA del commit que introdujo el primer error.
