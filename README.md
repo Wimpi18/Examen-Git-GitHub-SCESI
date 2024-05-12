@@ -20,3 +20,12 @@ def sumManyNumbers(numbersArray):
 
 But the question is again ...
 > ***It can improve?***
+
+### This is my best sum function
+```python
+    def sum(*numbers):
+    result = 0
+    for number in numbers:
+        result += number
+    return result
+```
