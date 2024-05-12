@@ -6,3 +6,9 @@ def multiply(*numbers):
 
 def multiplyTwoNumbers(num1, num2):
     return num1 / (1/num2)
+
+def multiplyManyNumbers(numbersArray):
+    result = 1
+    for number in numbersArray:
+        result *= number
+    return result
