@@ -1,7 +1,7 @@
 def sum(*args):
     res = 0
-    for n in args:
-        res = res + n
+    for number in args:
+        res = res + number
     return res
 
 def sumTwoNumbers(num1, num2):
