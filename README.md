@@ -2,7 +2,7 @@
 ## Sum function
 I have two functions to sum many numbers.
 ```python
-def sum(num1, num2):
+def sumTwoNumbers(num1, num2):
     return num1 + num2
 ```
 The last function allows me to add 3 numbers
