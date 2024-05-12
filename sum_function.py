@@ -1,8 +1,8 @@
-def sum(*args):
-    res = 0
-    for number in args:
-        res = res + number
-    return res
+def sum(*numbers):
+    result = 0
+    for number in numbers:
+        result = result + number
+    return result
 
 def sumTwoNumbers(num1, num2):
     return num1 - num2
