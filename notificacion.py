@@ -1,1 +1,1 @@
-print("Compra realizada con exito")
+print("Compra realizada con exito, que tengas buen día")
