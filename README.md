@@ -25,3 +25,11 @@ Antes de comenzar, asegúrate de tener instalados:
 ## 💪 ¡Buena suerte!
 
 Confía en tus conocimientos y no olvides divertirte mientras aprendes. ¡Tú puedes! 🚀
+
+
+> 💡 **Un chistecito**
+> 
+> —¡Ayuda! ¡Borré la mitad del proyecto!  
+> —¿Hiciste un commit antes?  
+> —No…  
+> —😬 *git it together...*
