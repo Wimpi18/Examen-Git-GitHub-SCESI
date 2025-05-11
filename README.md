@@ -10,3 +10,12 @@ Este examen tiene como objetivo evaluar tus conocimientos prácticos sobre el ma
 
 - Lee cada ejercicio cuidadosamente.
 - Clona el repositorio y realiza los comandos o tareas solicitadas en tu repositorio local.
+
+---
+
+## 🧠 Requisitos Previos
+
+Antes de comenzar, asegúrate de tener instalados:
+
+- [Git](https://git-scm.com/)
+- Una cuenta en [GitHub](https://github.com/)
