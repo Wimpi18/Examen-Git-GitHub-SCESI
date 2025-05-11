@@ -19,3 +19,9 @@ Antes de comenzar, asegúrate de tener instalados:
 
 - [Git](https://git-scm.com/)
 - Una cuenta en [GitHub](https://github.com/)
+
+---
+
+## 💪 ¡Buena suerte!
+
+Confía en tus conocimientos y no olvides divertirte mientras aprendes. ¡Tú puedes! 🚀
