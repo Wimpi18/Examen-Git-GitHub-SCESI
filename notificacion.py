@@ -1,0 +1,1 @@
+print("Compra realizada con exito")
